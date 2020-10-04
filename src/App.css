@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.todo-List{
+  margin: 20px 0px;
+  background-color: rgb(93, 182, 241);
+  color: white;
+  font-weight: lighter;
+  text-transform: uppercase;
+  padding: 5px 3px;
+
+}
+
+.todolistbtn{
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.todolistbtn button{
+  padding: 6px 10px ;
+  border: none;
+  font-size: 10px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(39, 32, 32);
+  
+  font-weight: bold;
+  text-transform: uppercase;
+  outline: none;
+  border-radius: 3px;
+}
+
+
+.AppTodo{
+  background-color:rgb(206, 64, 64);
+  padding: 10px;
+  width: 300px;
+}
+
+.AppTodo form{
+  display: flex;
+  justify-content: space-around;
+}
+
+.AppTodo form input[type="text"]{
+  padding: 5px;
+  border: none;
+  outline: none;
+}
+
+.AppTodo form input[type="submit"]{
+  padding: 5px 8px;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  color: rgb(37, 37, 32);
+}
+
+
+
