@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/todoReactApp/static/css/main.ae30d9d7.chunk.css",
-    "main.js": "/todoReactApp/static/js/main.1086d605.chunk.js",
-    "main.js.map": "/todoReactApp/static/js/main.1086d605.chunk.js.map",
-    "runtime-main.js": "/todoReactApp/static/js/runtime-main.b423b302.js",
-    "runtime-main.js.map": "/todoReactApp/static/js/runtime-main.b423b302.js.map",
-    "static/js/2.4510165c.chunk.js": "/todoReactApp/static/js/2.4510165c.chunk.js",
-    "static/js/2.4510165c.chunk.js.map": "/todoReactApp/static/js/2.4510165c.chunk.js.map",
-    "index.html": "/todoReactApp/index.html",
-    "precache-manifest.4389863bf2d6d305c057d604c8bc8001.js": "/todoReactApp/precache-manifest.4389863bf2d6d305c057d604c8bc8001.js",
-    "service-worker.js": "/todoReactApp/service-worker.js",
-    "static/css/main.ae30d9d7.chunk.css.map": "/todoReactApp/static/css/main.ae30d9d7.chunk.css.map",
-    "static/js/2.4510165c.chunk.js.LICENSE.txt": "/todoReactApp/static/js/2.4510165c.chunk.js.LICENSE.txt"
+    "main.css": ".http://PratikReal.github.io/todoReactApp/static/css/main.ae30d9d7.chunk.css",
+    "main.js": ".http://PratikReal.github.io/todoReactApp/static/js/main.3263c829.chunk.js",
+    "main.js.map": ".http://PratikReal.github.io/todoReactApp/static/js/main.3263c829.chunk.js.map",
+    "runtime-main.js": ".http://PratikReal.github.io/todoReactApp/static/js/runtime-main.5ba525fe.js",
+    "runtime-main.js.map": ".http://PratikReal.github.io/todoReactApp/static/js/runtime-main.5ba525fe.js.map",
+    "static/js/2.4510165c.chunk.js": ".http://PratikReal.github.io/todoReactApp/static/js/2.4510165c.chunk.js",
+    "static/js/2.4510165c.chunk.js.map": ".http://PratikReal.github.io/todoReactApp/static/js/2.4510165c.chunk.js.map",
+    "index.html": ".http://PratikReal.github.io/todoReactApp/index.html",
+    "precache-manifest.4758ae5453f5585ea2bb0d21b4bcf1cd.js": ".http://PratikReal.github.io/todoReactApp/precache-manifest.4758ae5453f5585ea2bb0d21b4bcf1cd.js",
+    "service-worker.js": ".http://PratikReal.github.io/todoReactApp/service-worker.js",
+    "static/css/main.ae30d9d7.chunk.css.map": ".http://PratikReal.github.io/todoReactApp/static/css/main.ae30d9d7.chunk.css.map",
+    "static/js/2.4510165c.chunk.js.LICENSE.txt": ".http://PratikReal.github.io/todoReactApp/static/js/2.4510165c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b423b302.js",
+    "static/js/runtime-main.5ba525fe.js",
     "static/js/2.4510165c.chunk.js",
     "static/css/main.ae30d9d7.chunk.css",
-    "static/js/main.1086d605.chunk.js"
+    "static/js/main.3263c829.chunk.js"
   ]
 }
